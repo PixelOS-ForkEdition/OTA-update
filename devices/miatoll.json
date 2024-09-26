@@ -1,0 +1,23 @@
+{
+  "error": false,
+  "version": "fourteen",
+  "filename": "PixelOS_ForkEdition_miatoll_14.0-20240926-0848.zip",
+  "datetime": 1727340222,
+  "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+  "size": 2202197864,
+  "url": "https://github.com/PixelOS-ForkEdition/OTA-update/releases/download/u_miatoll_09-2024/PixelOS_ForkEdition_miatoll_14.0-20240926-0848.zip",
+  "github_releases_url": "https://github.com/PixelOS-ForkEdition/OTA-update/releases/download/u_miatoll_09-2024/PixelOS_ForkEdition_miatoll_14.0-20240926-0848.zip",
+  "filehash": "362ca120db7f540e89146f139ab5a04e06ce7aa28bf8831af32969052a889730",
+  "id": "362ca120db7f540e89146f139ab5a04e06ce7aa28bf8831af32969052a889730",
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "userariii",
+      "name": "Arindam Bhattacharjee"
+    }
+  ],
+  "donate_url": "https://www.paypal.com/paypalme/ariii0129",
+  "website_url": "https://pixelos.net/",
+  "news_url": "https://blog.pixelos.net/",
+  "forum_url": "https://forum.xda-developers.com/t/miatoll"
+}
