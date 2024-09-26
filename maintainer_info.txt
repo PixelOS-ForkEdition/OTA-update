@@ -1,0 +1,13 @@
+[miatoll]
+maintainer_name="Arindam Bhattacharjee"
+github_username="userariii"
+main_maintainer=true
+donate_url="https://www.paypal.com/paypalme/ariii0129"
+forum_url="https://forum.xda-developers.com/t/miatoll"
+
+[PL2]
+maintainer_name="Arindam Bhattacharjee"
+github_username="userariii"
+main_maintainer=true
+donate_url="https://www.paypal.com/paypalme/ariii0129"
+forum_url="https://forum.xda-developers.com/t/pl2"
