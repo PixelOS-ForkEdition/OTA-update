@@ -1,14 +1,14 @@
 {
   "error": false,
   "version": "fourteen",
-  "filename": "PixelOS_ForkEdition_miatoll_14.0-20240926-0848.zip",
-  "datetime": 1727340222,
+  "filename": "PixelOS_ForkEdition_miatoll_14.0-20240928-1903.zip",
+  "datetime": 1727550045,
   "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-  "size": 2202197864,
-  "url": "https://github.com/PixelOS-ForkEdition/OTA-update/releases/download/u_miatoll_09-2024/PixelOS_ForkEdition_miatoll_14.0-20240926-0848.zip",
-  "github_releases_url": "https://github.com/PixelOS-ForkEdition/OTA-update/releases/download/u_miatoll_09-2024/PixelOS_ForkEdition_miatoll_14.0-20240926-0848.zip",
-  "filehash": "362ca120db7f540e89146f139ab5a04e06ce7aa28bf8831af32969052a889730",
-  "id": "362ca120db7f540e89146f139ab5a04e06ce7aa28bf8831af32969052a889730",
+  "size": 2139360907,
+  "url": "https://github.com/PixelOS-ForkEdition/OTA-update/releases/download/u_miatoll_09-2024/PixelOS_ForkEdition_miatoll_14.0-20240928-1903.zip",
+  "github_releases_url": "https://github.com/PixelOS-ForkEdition/OTA-update/releases/download/u_miatoll_09-2024/PixelOS_ForkEdition_miatoll_14.0-20240928-1903.zip",
+  "filehash": "328706b7619719f4a49a2c4c3c0f8cdf2889941c0f593b9e36595ea480ca6250",
+  "id": "328706b7619719f4a49a2c4c3c0f8cdf2889941c0f593b9e36595ea480ca6250",
   "maintainers": [
     {
       "main_maintainer": true,
